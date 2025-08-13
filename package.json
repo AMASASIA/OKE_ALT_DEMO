@@ -1,0 +1,28 @@
+{
+  "name": "oke-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ethers": "^6.13.1",
+    "framer-motion": "^11.3.12",
+    "lucide-react": "^0.536.0",
+    "nft.storage": "^7.1.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@chainlink/contracts": "^1.1.1",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.6",
+    "typescript": "^5.5.4",
+    "vite": "^7.1.2"
+  },
+  "scripts": {
+    "start": "echo 'Run command locally to start dev server. This is a placeholder.'",
+    "build": "echo 'Run command locally to build. This is a placeholder.'"
+  }
+}
